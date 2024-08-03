@@ -1,0 +1,14 @@
+# CMake build directories
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+
+# IDE settings
+.vscode/
+.idea/
+compile_flags.txt
+.cache/
